@@ -1,4 +1,4 @@
-# Unit 17 NoSQL Homework: Workout Tracker
+# Workout Tracker
 
 This application was created to allow users to track their workouts and view their stats, including sets, reps, and duration. The workouts are separated by cardio and resistance for simple logging. 
 
